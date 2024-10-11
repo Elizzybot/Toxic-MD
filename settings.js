@@ -2,15 +2,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348024906596"
-global.ownername = "🃏Joker🃏"
+global.ownernomer = "2347038494997"
+global.ownername = "🃏 eliminator tech 🃏"
 global.ytname = "YT: Resonex"
 global.socialm = "GitHub: Joker-Reincarnated"
 global.location = "Nigeria, Lagos, Ikeja"
 
-global.ownernumber = '2349168929037'  //creator number
-global.ownername = '🃏Joker🃏' //owner name
-global.botname = '☣️ Toxic MD' //name of the bot
+global.ownernumber = '2347038494997'  //creator number
+global.ownername = '🃏 eliminator tech 🃏' //owner name
+global.botname = '☣️ eliminator MD' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
@@ -21,7 +21,7 @@ global.themeemoji = '🪀'
 global.wm = "🃏Joker🃏"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaN8F9MG8l5KA9Jx0Q0X'
+global.link = 'https://whatsapp.com/channel/0029Vae26R7EFeXfbF5Rd72B'
 
 //custom prefix
 global.prefa = ['']
